@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    background-image: url(./consisten-exercise-helps-anxiety-and-stress-1440x810.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.how{
+    background-color: rgb(249, 243, 243);
+    color: red;
+}
+.low{
+     background-color: black;
+}
+.form{
+     background-repeat: no-repeat;
+     padding: 5px;
+    
+     background-size: cover;
+    background-image: url(./Cable-Machine-Lat-Pulldown1.jpg)
+    
+           
+        
+           
+}
+.hd{
+    text-decoration-style: solid;
+    font-family:sans-serif;
+    text-decoration-color: azure;
+    color: rgb(210, 218, 106);
+    font-size: 30px;
+     font-style: bold;
+}
+
+.bt{
+    padding: 4px;
+   
+}
+.lop{
+    background-color: rgba(255, 0, 0, 0);
+}
+.kkk{
+   object-fit: cover;
+}
+.boxes{
+    float: right;
+    margin-top: 100px;
+ 
+    padding: 40px;
+    border-radius: 10px;
+}
+textarea{
+    width: 325px;
+    height: 100px;
+}
+.kop{
+    color: white;
+}
+.txtb:hover{
+    background: rgb(197, 200, 120);
+    color: blue;
+    
+}
+.submit{
+    background-color: black;
+    color: aliceblue;
+}
+.submit:hover{
+    background: rgb(39, 39, 160);
+}
+
+.txtb {
+    margin: 10px 5px;
+}
+.dsn{
+    color: black;
+}
+.hil{
+     padding: 30px;
+}
