@@ -3,6 +3,7 @@ body{
     background-image: url(./consisten-exercise-helps-anxiety-and-stress-1440x810.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     height: 100vh;
 }
 .how{
